@@ -1,6 +1,7 @@
 # task7-remove-suspicious-extensions
 
 Objective
+
 Identify and remove any suspicious browser extensions to improve browser security and privacy.
 
 Extensions Reviewed
